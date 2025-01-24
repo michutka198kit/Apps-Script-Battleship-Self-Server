@@ -7,5 +7,7 @@ Either way this was mostly made because I felt like it, someone thought it was a
 
 This program is going into a Tech Fest and will be provided for everyone shortly because, well, who wants to look at terrible code on a terrible platform...? I think it's currently you especially since you read this far. You can go into the instructions and get started on how to set up the code once downloaded or interested in reading an setting a self-server up. It's easy and compatable but there are deffinently better method and codes. There might be more code than there needs but it's like my rough draft and I didn't feel like going through everything.
 
+Therefor the best gamecode to possibly get is W6969
+
 [CODE COMING SOON AND UNPUBLISHED]
 This Code Will Be Published 2/5/25.
