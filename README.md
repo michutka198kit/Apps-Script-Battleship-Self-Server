@@ -9,5 +9,4 @@ This program is going into a Tech Fest and will be provided for everyone shortly
 
 Therefor the best gamecode to possibly get is W6969
 
-[CODE COMING SOON AND UNPUBLISHED]
-This Code Will Be Published 2/5/25.
+[WARNING: THIS CODE IS TERRIBLE AND CURRENTLY DOSEN"T HAVE INSTRUCTIONS, IT"S NOT SUPER EASY TO SETUP]
