@@ -16,7 +16,7 @@ The process went a little like this. For each little screen I had a new html fil
 [WARNING: THIS CODE IS TERRIBLE AND CURRENTLY DOSEN'T HAVE INSTRUCTIONS, IT'S NOT SUPER EASY TO SETUP]
 
 If you want to try it out, here is the link to my game that's fully setup 
-_Main 1.07_
+_Main 1.08_
 [https://script.google.com/macros/s/AKfycbyhtMpOs1WAx7MpFYTfGNy1n4NCrfS1Wz9PMDlfSBf3V0EHLi3tW4HANn1RM-oyPcVxTA/exec]
 
 _1.03 BACKUP_
