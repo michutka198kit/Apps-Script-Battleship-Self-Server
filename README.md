@@ -18,8 +18,8 @@ The process went a little like this. For each little screen I had a new html fil
 [WARNING: THIS CODE MAY HAVE ISSUES TRYING TO SET IT UP USING THE INSTRUCTIONS]
 
 If you want to try it out, here is the link to my game that's fully setup 
-_Updated To The Latest Version_
+_[The Latest Released Version]_
 [https://script.google.com/macros/s/AKfycbyhtMpOs1WAx7MpFYTfGNy1n4NCrfS1Wz9PMDlfSBf3V0EHLi3tW4HANn1RM-oyPcVxTA/exec]
 
-_The Current Beta Testings, Currently V1.03_
+_The Current Beta Testings, Currently V1.03 [Outdated Code]_
 [https://script.google.com/macros/s/AKfycbyBFRLPWuKHLhDapmkFa5Z_mlSTwGBf326fPDjGdhYQcyJqKBvxUlEIceApuUhXtyZlPA/exec]
