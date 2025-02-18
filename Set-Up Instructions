@@ -1,1 +1,13 @@
-Helpful Set-It-Up-Yourself Instructions Coming Soon!
+Unhelpful Instructions:
+
+Go To Google Sheets & Create A New Sheet
+Open Extenctions & Go To Apps Script, This Will Link The Script Automatically.
+Now You Need To Copy The .js & Paste It In, It Dosen't Matter What The .js File Is Nammed
+Make A New .Html File And Call It "Main" Otherwise It Won't Work Correctly.
+Paste The Code Into The Html & Save
+Go To The .js File And Change The Sheet ID To The Id Of The Sheet (The Long Text In The Feild With Tons Of Letters And Numbers)
+Run the .js File And Authorize The Code So It Is Allowed To Run, You Might Have To Click A Few Buttons To Do So But Once It Says Complete, It Works.
+Next We Will Need To Make A New Deployment Of A Web App, Once Deploying That Your Game Should Fully Work.
+To Access It Use The Url It Gives After Deploying.
+
+There May Be Issues With The Code And A New Document/Sheet But It Should Work.
