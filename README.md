@@ -15,7 +15,7 @@ The process went a little like this. For each little screen I had a new html fil
 
 **This Project Was Put To A Halt Due To Wanting To Focus On Other Projects I Have As Well As Work I Need Done.**
 
-[WARNING: THIS CODE IS TERRIBLE AND CURRENTLY DOSEN'T HAVE INSTRUCTIONS, IT'S NOT SUPER EASY TO SETUP]
+[WARNING: THIS CODE MAY HAVE ISSUES TRYING TO SET IT UP USING THE INSTRUCTIONS]
 
 If you want to try it out, here is the link to my game that's fully setup 
 _Updated To The Latest Version_
