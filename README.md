@@ -13,6 +13,8 @@ Sometimes I do question having a project finished for once... It's... Weird and 
 
 The process went a little like this. For each little screen I had a new html file for, There were 3 in total; Join, Placements, And the Battleground. All of them had their unique challenges when building up and slowly merging, it was not a fun task, especially merging the Join and Placements together which was after I merged the placements and battleground, making sure everything worked before slapping it down trying to make two pancakes one. Now what board game next..... I was thinking of doing the ordinary aggravation board game, marbles for say, a great game to play with grandmas, then it ended up being Battleship instead. I was also thinking about clue but it's difficult to get images in, specifically ones that worked in my school at the time and don't get me started with audio because I have no clue, just be impressed I used absolutely no google cloud apis.
 
+**This Project Was Put To A Halt Due To Wanting To Focus On Other Projects I Have As Well As Work I Need Done.**
+
 [WARNING: THIS CODE IS TERRIBLE AND CURRENTLY DOSEN'T HAVE INSTRUCTIONS, IT'S NOT SUPER EASY TO SETUP]
 
 If you want to try it out, here is the link to my game that's fully setup 
